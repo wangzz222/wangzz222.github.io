@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>first</title>
+    <link href="/2024/08/08/fisrt/"/>
+    <url>/2024/08/08/fisrt/</url>
+    
+    <content type="html"><![CDATA[<p>你好，这是我的第一篇博客</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>分类</category>
+      
+      <category>子分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>标签</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/07/10/hello-world/"/>
     <url>/2024/07/10/hello-world/</url>
